@@ -1,3 +1,22 @@
+<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<div align="center">
+
+# ⚠️ This repository has been archived
+
+**Experimental tool — code preserved in archive/, no active maintenance**
+
+This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
+
+All active development, bug fixes, and new features continue there.
+
+</div>
+
+---
+
+> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
